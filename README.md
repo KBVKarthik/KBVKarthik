@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KBVKarthik
 - 👀 I’m interested in coding in python, c++ and java
-- 🌱 I’m currently doing BE CSE from MIT Chennai
+- 🌱 I’m currently a Full Stack Developer!
 - 💞️ I’m looking to collaborate on anything really...
 
 <!---
