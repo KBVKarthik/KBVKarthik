@@ -4,7 +4,7 @@
 
 I am an adaptive full-stack dev, adept at quick problem-solving & rapid tech assimilation. Balanced college and high CGPA, fueled by a passion for the craft.
 
-🌱 I have been working in the fintech and edtech industry for a total of 5 years and 1 month empowering startups  !!
+🌱 I have been working in the fintech and edtech industry for a total of 4 years and 10 month empowering startups  !!
 
 ### 📫 Connect with Me
 Curious or have an opportunity in mind? Contact me!
