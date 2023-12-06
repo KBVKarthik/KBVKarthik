@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm K Bhavani Venkata Karthik
 
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+
 I am an adaptive full-stack dev, adept at quick problem-solving & rapid tech assimilation. Balanced college and high CGPA, fueled by a passion for the craft.
 
 🌱 I have been working in the fintech and edtech industry for a total of 5 years and 1 month empowering startups  !!
