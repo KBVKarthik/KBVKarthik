@@ -14,7 +14,7 @@ Curious or have an opportunity in mind? Contact me!
 <a href="mailto:kbvk1906@gmail.com"><img src="https://img.shields.io/badge/-kbvk1906@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ### 🚀 Quick Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KBVKarthik&show_icons=true&theme=radical&hide_rank=true)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/KBVKarthik/langs)](https://githubtrends.io)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KBVKarthik&layout=compact)
 
