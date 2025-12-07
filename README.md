@@ -13,11 +13,6 @@ Curious or have an opportunity in mind? Contact me!
 [![Linkedin Badge](https://img.shields.io/badge/-Karthik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/k-karthik-421a25190/)](https://www.linkedin.com/in/k-karthik-421a25190/) &nbsp;
 <a href="mailto:kbvk1906@gmail.com"><img src="https://img.shields.io/badge/-kbvk1906@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-### 🚀 Quick Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KBVKarthik&show_icons=true&theme=radical&hide_rank=true&hide=stars,issues,contribs&show=prs_merged,prs_merged_percentage)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KBVKarthik&layout=compact)
-
 ### 🛠️ Skills/Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
